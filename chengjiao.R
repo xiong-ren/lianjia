@@ -7,6 +7,7 @@ library(XML)
 library(stringr)
 library(plyr)
 
+
 # default options
 defaultOptions <-  curlOptions(
   httpheader = list(
